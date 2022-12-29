@@ -1,0 +1,129 @@
+.main{
+    margin:0px;
+}
+
+.nav-container{
+    background-color: black;
+    width:100%;
+    margin:auto;
+    display:flex;
+   
+    
+}
+
+.nav-link{
+    color:white;
+    text-decoration: none;
+    margin-right: 40px;
+    display:flex;
+    margin-top:9px;
+    margin-left:15%;
+    padding:0px 15px;
+}
+
+.corner{
+    color:white;
+    text-indent: 100px;
+    font-size: 30px;
+
+}
+#big{
+    font-size: 130px;
+    position:absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    color:white;
+}
+
+
+    
+.hero-image{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+#box{
+    background-color: lightgrey;
+    border:thin solid gray;
+    text-align: left;
+    text-indent: 30px;
+    padding:10px;
+    max-width: 47%;
+    margin-left: 25%;
+
+}
+
+.butt{
+    border:thin solid gray;
+    background-color: gold;
+    color:white;
+    margin-left:225px;
+    margin-right:0px;
+    padding:20px;
+    
+ 
+}
+
+.bodi{
+    margin-left:22%;
+    padding:25px 0px;
+    display:flex;
+    align-items: baseline;
+    flex-direction: column;
+}
+
+.try{
+    margin-left:80px;
+
+}
+
+
+.bod{
+    padding:0px 0px;
+    margin-left:50px;
+    margin-bottom: 20px;
+    width:64%;
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid lightgray;
+
+
+}
+
+.botom{
+   
+    background-color: black;
+  }
+
+table, th, td {
+    background-color: black;
+    color:white;
+    text-align: left;
+  }
+
+  table{
+    padding:50px;
+    margin-right:50px;
+    margin-left:40%;
+
+  }
+ 
+
+  th{
+    padding:15px;
+    font-size: 35px;
+
+
+  }
+
+  td{
+    padding:15px;
+    
+  }
+  hr.new1{
+    border-top:1px solid red;
+
+  }
